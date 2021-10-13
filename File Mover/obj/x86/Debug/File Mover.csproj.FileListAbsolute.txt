@@ -1,0 +1,16 @@
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\bin\Debug\Folder Mover.exe.manifest
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\bin\Debug\Folder Mover.application
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\bin\Debug\Folder Mover.exe
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\bin\Debug\Folder Mover.pdb
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\bin\Debug\ExcelLibrary.dll
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\bin\Debug\itextsharp.dll
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\File_Mover.Form1.resources
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\File_Mover.Properties.Resources.resources
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\Folder Mover.TrustInfo.xml
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\Folder Mover.exe.manifest
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\Folder Mover.application
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\Folder Mover.exe
+C:\Documents and Settings\dsadmin\My Documents\Visual Studio 2010\Projects\File Mover\File Mover\obj\x86\Debug\Folder Mover.pdb
